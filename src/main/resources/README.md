@@ -1,0 +1,1 @@
+Determination of the largest isosceles triangle.
